@@ -1,4 +1,4 @@
-<?php
+git push<?php
 
 namespace Tests\Unit;
 
